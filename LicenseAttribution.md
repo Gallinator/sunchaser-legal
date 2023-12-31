@@ -1,4 +1,4 @@
-## NOTE LEGALI ELEMENTI
+# NOTE LEGALI ELEMENTI
 Applicazione SunChaser
 
 L’Applicazione SunChaser è un software (di seguito “APP”), sviluppato da CICERI LUIGI, indirizzo di posta elettronica ordinaria dh.fr.android.game@gmail.com (come di seguito identificato “Sviluppatore”), e messo a disposizione agli utenti attraverso la piattaforma GooglePlay. 
